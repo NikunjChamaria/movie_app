@@ -6,7 +6,7 @@ The Movie App is a Flutter-based mobile application designed to provide users wi
 
 ## Video Link
 
-You can chech out the video [here](https://drive.google.com/file/d/1DUKd6XWEd-a9VogJn3XACNTGlArHe4fp/view?usp=drivesdk)
+You can check out the video [here](https://drive.google.com/file/d/1DUKd6XWEd-a9VogJn3XACNTGlArHe4fp/view?usp=drivesdk)
 
 ## Features
 
